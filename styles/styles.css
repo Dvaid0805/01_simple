@@ -1,0 +1,60 @@
+body{
+    font-size: 18px;
+    margin:0 auto;
+}
+section{
+    margin-left:20px;
+    margin-right: 20px;
+}
+header  h1{
+    display: flex;
+    justify-content: center;
+    background-color: #A52A2A;
+    color: white;
+    height: 36px;
+    margin-right:auto;
+    padding-bottom: 7px;
+}
+
+.sun{
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+
+.italic{
+    font-style: italic;
+}
+.blue{
+    color:#2336FF;
+    font-weight: bold;
+}
+
+.gallery img{
+    border: 3px dashed;
+    width: 110px;
+    margin-right: 5px;
+}
+.gallery{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.blue-thick{
+    color:#2336FF ;
+}
+
+.footer{  
+    background-color:#000000;
+    margin-bottom: 10px;
+}
+.footer  p {
+    color: white;
+    padding-left: 39.4em;
+    padding-top: 2px;
+    padding-bottom: 2px;
+
+}
+
+
